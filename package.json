@@ -1,0 +1,24 @@
+{
+  "name": "tech-and-general-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winstonwacieni/tech-and-general-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winstonwacieni/tech-and-general-blog/issues"
+  },
+  "homepage": "https://github.com/winstonwacieni/tech-and-general-blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-edge": "^2.0.2"
+  }
+}
